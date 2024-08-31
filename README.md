@@ -1,13 +1,7 @@
-<p align="right">
-  <a href="./README.md" style="text-decoration:none;">English</a>
-  &nbsp;|&nbsp;
-  <a href="./README_ja.md">日本語</a>
-</p>
 
 
 
-
-<h1>Introduce ME</h1>
+<h1>Introduce </h1>
 <h3>挑戦を楽しむ、プロアクティブなロボット工学志向の専門学生<br></h3>
 
 こんにちは。佐藤希美です。現在、専門学校で情報学を学んでいる１年生で、2026年に卒業予定です。１年前は健康系、いわゆる体育系の大学に在籍していました。私はロボット工学に強い関心があり、特に産業用ロボットに興味を持っています。きっかけは、「Robot Technology Japan」というイベントで、滑らかな動きで物を運ぶロボットを目の当たりにしたことでした。<br>
