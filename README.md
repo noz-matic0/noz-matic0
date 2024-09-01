@@ -3,7 +3,7 @@
 
 <h1>Introduce </h1>
 <h3>挑戦を楽しむ、プロアクティブなロボット工学志向の専門学生<br></h3>
-<img src="mycobot-320-m5-1536x640 (1).gif" alt="mycobot 世界で一番小さな協同型ロボット" width="500">
+<img src="https://github.com/noz-matic0/noz-matic0/blob/main/mycobot280M5%20(1).gif?raw=true" alt="mycobot 世界で一番小さな協同型ロボット" width="500">
 
 現在、専門学校で情報学を学んでいる１年生です。１年前は大学に在籍していました。ロボット工学に関心があり、特に産業用ロボットに興味を持っています。きっかけは、「Robot Technology Japan」というイベントで、滑らかな動きで物を運ぶロボットを目の当たりにしたことでした。<br>
 
