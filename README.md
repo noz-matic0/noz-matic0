@@ -9,12 +9,12 @@
 
 その後、ロボットシステムインテグレーションやロボット教育に関心を持つようになり、産業用ロボットの特別安全教育プログラムに参加しました。ここで学んだ知識とスキルを通じて、ロボットの安全な操作方法を習得しました。<br>
 
-私の強みは、「プロアクティブな姿勢」であり、常に新しい知識や技術を積極的に学び、それを実践に生かすことを心掛けています。その姿勢を持って、
-将来はロボットシステムインテグレータ（SIer）として働き、ロボットの未来を切り開いていきたいと考えています。
+私の強みは、常に新しい知識や技術を積極的に学び、それを実践に生かすことを心掛けています。その姿勢を持って、
+将来はロボットSIerとして、ロボットの未来を切り開いていきたいと考えています。
 
 
 ```bash
-age : 20
+age ：20
 住み： 静岡
 性格 ： 挑戦的, 好奇心旺盛, 目標志向
 趣味 ： ロボットアーム制御, aardvark TEA,
@@ -40,7 +40,7 @@ age : 20
   <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="PHP" style="max-width:50px;height:auto;">
 </p>
 <br>
-<h1>Studying hard!!</h1>
+<h1>Studying </h1>
 <h2>習得中の言語</h2>
 <p align="left">
   <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="max-width:50px;height:auto;margin-right:10px;">
