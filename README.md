@@ -2,7 +2,7 @@
 
 
 <h1>Introduce </h1>
-<h3>挑戦を楽しむ、プロアクティブなロボット工学志向の専門学生<br></h3>
+<h3>挑戦を楽しむ、ロボット工学志向の専門学生<br></h3>
 <img src="https://github.com/noz-matic0/noz-matic0/blob/main/mycobot280M5%20(1).gif?raw=true" alt="mycobot 世界で一番小さな協同型ロボット" width="500">
 
 ロボット工学に関心があり、特に産業用ロボットに興味を持っています。<br>
