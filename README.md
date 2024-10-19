@@ -1,22 +1,25 @@
 
 
 
-<h1>Introduce </h1>
-<h3>挑戦を楽しむ、ロボット工学志向の専門学生<br></h3>
-<img src="https://github.com/noz-matic0/noz-matic0/blob/main/mycobot280M5%20(1).gif?raw=true" alt="mycobot 世界で一番小さな協同型ロボット" width="500">
+<h1>＜Introduce＞</h1>
+<h3>「姿勢推定で、可能性を解き放つ」<br></h3>
+![姿勢推定](./images/soccer.sukeruton.gif)
+<h5>現在は専門学校で情報学を学び、自分の好きな姿勢推定を専門にしています。<br>
+姿勢推定は、カメラ映像から人やモノの動きを読み取り、どの関節が動いているかを推測する技術のことです。<br>
+人間観察が好きな私にとって、細かい動きをデータで捉えるのは本当に面白くて、まるで人の動きを解析する感じが楽しいです。
 
-ロボット工学に関心があり、特に産業用ロボットに興味を持っています。<br>
-きっかけは、「Robot Technology Japan」というイベントで、滑らかな動きで物を運ぶロボットを目の当たりにしたことでした。<br>
-その後、ロボットシステムインテグレーションやロボット教育に関心を持つようになり、
-産業用ロボットの特別安全教育プログラムに参加しました。今は、mycobotのプログラムやシステムを考えたりして可能性を広げられるように楽しんでます！
+</h5>
+
+
+
 
 
 ```bash
-年齢　：20
-住み  ： 静岡
-性格  ： 挑戦的, 好奇心旺盛, 目標志向
-趣味  ： ロボットアーム制御, aardvark TEA,サボン
-ハマり：C/C++の勉強,料理教室
+年齢：20
+住み：静岡
+性格：好奇心旺盛, 目標志向
+分野：画像認識、姿勢推定
+在籍：Ai×コンピューター科　１年
 ```
 
 
@@ -38,12 +41,6 @@
   <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="PHP" style="max-width:50px;height:auto;">
 </p>
 <br>
-<h1>Studying </h1>
-<h2>習得中の言語</h2>
-<p align="left">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus" alt="C++" style="max-width:50px;height:auto;">
-</p>
 
 
 
