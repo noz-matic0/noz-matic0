@@ -1,6 +1,6 @@
 <h1>Introduce</h1>
 <h1>「姿勢推定で、可能性を解き放つ」 <br></h1>
-<h3>Nozomi Sato</h3>
+
 
 <!-- 画像を横並びにし、余白を加える -->
 <div style="display: flex; justify-content: space-around;">
