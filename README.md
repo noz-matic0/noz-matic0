@@ -1,18 +1,27 @@
 <h1>Introduce</h1>
-<h1>「姿勢推定で、可能性を解き放つ」 <br></h1>
+# Nozomi Sato | AI Enthusiast
+
+ 
+現在、**浜松未来総合専門学校 AIコンピュータ科**で学んでいます。  
+特に**姿勢推定**や**異常検知**に興味を持ち、研究とスキルアップに取り組んでいます。
+
+---
+
+## 🛠 Skills
+- **Programming**: Python (TensorFlow, OpenCV), C, HTML/CSS  
+- **Tools**: Anaconda, Google Coral, Git  
+- **Focus Areas**:  
+  - 姿勢推定アルゴリズムの開発  
+  - 身近なデバイスを活用した異常検知システム
 
 
 <!-- 画像を横並びにし、余白を加える -->
 <div style="display: flex; justify-content: space-around;">
     <img src="soccer.sukeruton.gif" alt="Soccer Skeleton" style="max-width: 60%; height: auto; margin-right: 5px;">
-    <img src="IMG_4628.PNG" alt="Pose Estimation Example" style="max-width: 40%; height: auto;">
+
 </div>
 
-<h4>
-    現在は専門学校で情報学を学び、自分の好きな姿勢推定を専門にしています。<br>
-    姿勢推定は、カメラ映像から人やモノの動きを読み取り、どの関節が動いているかを推測する技術のことです。<br>
-    人間観察が好きな私にとって、細かい動きをデータで捉えるのは本当に面白くて、まるで人の動きを解析する感じが楽しいです。
-</h4>
+
 
 
 
@@ -24,11 +33,11 @@
 
 
 ```bash
-年齢：20
-住み：静岡
-性格：好奇心旺盛, 目標志向
-分野：画像認識、姿勢推定
-在籍：Ai×コンピューター科　１年
+年齢：20age
+住み：静岡県
+性格：アクティブ, 目標志向
+分野：画像認識
+学年：1年
 ```
 
 
