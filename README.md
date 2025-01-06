@@ -1,27 +1,39 @@
 <h1>Introduce</h1>
-# Nozomi Sato | AI Enthusiast
+# Nozomi Sato | Aspiring Java Programmer & Tech Enthusiast
 
+<p>浜松未来総合専門学校 AI×コンピュータ科 プログラミング専攻　佐藤希美<br>
  
-現在、情報系専門で学んでいます。  
-特に**姿勢推定**や**異常検知**に興味を持ち、研究とスキルアップに取り組んでいます。
+300人の中のマイクロチップ導入者の一人、専門学生で20歳にマイクロチップを埋め込んだ最年少。<br>
+最近はEclipseとVSコードを使い始め、Javaのスキルを着実に身につけています。</p>
 
 ---
 
-## 🛠 Skills
-- **Programming**: Python (TensorFlow, OpenCV), C, HTML/CSS  
-- **Tools**: Anaconda, Google Coral, Git  
-- **Focus Areas**:  
-  - 姿勢推定アルゴリズムの開発  
-  - 身近なデバイスを活用した異常検知システム
+## 🛠 **Skills**
+- **Programming**: Java, C, HTML/CSS  
+- **Tools**: VS Code, Eclipse, Git  
 
 
-<!-- 画像を横並びにし、余白を加える -->
+
+
+---
+
+<!-- スキルのアイコンを表示 -->
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="width:40px;height:auto;">
+  
+  <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=html5" alt="HTML5" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" alt="CSS3" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=git" alt="Git" style="width:40px;height:auto;">
+</p>
+
+---
+
 <div style="display: flex; justify-content: space-around;">
     <img src="soccer.sukeruton.gif" alt="Soccer Skeleton" style="max-width: 60%; height: auto; margin-right: 5px;">
-
 </div>
 
-
+---
 
 
 
@@ -35,9 +47,10 @@
 ```bash
 年齢：20age
 住み：静岡県
-性格：アクティブ, 目標志向
-分野：画像認識
+性格：なんか変わり者
+将来の希望：javaプログラマー
 学年：1年
+好きなもの：インドカレー、櫻坂46（アーティスト）
 ```
 
 
@@ -50,15 +63,19 @@
 <h1>Skill</h1>
 <h2>学校で学ぶ言語</h2>
 <p align="left">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=html5" alt="HTML5" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" alt="CSS3" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=javascript" alt="JavaScript" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=visualbasic" alt="Visual Basic" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=python" alt="Python" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="PHP" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=java" alt="Java" style="max-width:50px;height:auto;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=html5" alt="HTML5" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" alt="CSS3" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=javascript" alt="JavaScript" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=visualbasic" alt="Visual Basic" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=python" alt="Python" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="PHP" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="width:40px;height:auto;">
 </p>
+
+
+
+
 
 <br>
 
