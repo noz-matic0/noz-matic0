@@ -56,8 +56,10 @@
   <img src="https://simpleskill.icons.workers.dev/svg?i=javascript" alt="JavaScript" style="max-width:50px;height:auto;margin-right:10px;">
   <img src="https://simpleskill.icons.workers.dev/svg?i=visualbasic" alt="Visual Basic" style="max-width:50px;height:auto;margin-right:10px;">
   <img src="https://simpleskill.icons.workers.dev/svg?i=python" alt="Python" style="max-width:50px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="PHP" style="max-width:50px;height:auto;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="PHP" style="max-width:50px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=java" alt="Java" style="max-width:50px;height:auto;">
 </p>
+
 <br>
 
 
