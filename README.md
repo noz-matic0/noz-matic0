@@ -7,6 +7,7 @@
 いつかパソコンを自分で組み立て、<br>
 自分のノウハウを詰め込んだロボットの実体を作りたいです。
 
+
 -  所有ロボット：Academic Scholar Robot / myCobot  
 -  組み込み制御：学校での自発型授業の講師  
 
@@ -14,7 +15,7 @@
 
 
 <!-- スキルのアイコンを表示 -->
-<h2>skill</h2>
+<h2>skill(つかえるもの)</h2>
 <p align="left">
   <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="width:40px;height:auto;margin-right:10px;">
   <img src="https://simpleskill.icons.workers.dev/svg?i=python" alt="Python" style="width:40px;height:auto;margin-right:10px;">
@@ -30,6 +31,7 @@
 
 <div style="display: flex; justify-content: space-around;">
     <img src="soccer.sukeruton.gif" alt="Soccer Skeleton" style="max-width: 60%; height: auto; margin-right: 5px;">
+  <h5>姿勢推定</h5>
 </div>
 
 ---
@@ -47,6 +49,7 @@
 学年：２年
 分野：ロボット、制御系
 好きな食べ物：インドカレー
+好きな曲：オールセーブチャレンジ（香椎モイミ）
 趣味：ロボットや制御系の書籍を見る・ホームセンターへ材料買いに行く
 MBTI：ISTP（巨匠）
 ```
