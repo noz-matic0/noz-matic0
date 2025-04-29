@@ -1,31 +1,25 @@
 <h1>Introduce</h1>
-# Nozomi Sato | Aspiring Java Programmer & Tech Enthusiast
 
-<p>浜松未来総合専門学校 AI×コンピュータ科 プログラミング専攻　佐藤希美<br>
- 
-300人の中のマイクロチップ導入者の一人、専門学生で20歳にマイクロチップを埋め込んだ最年少。<br>
-最近はEclipseとVSコードを使い始め、Javaのスキルを着実に身につけています。</p>
+情報系専門学校に通う学生です。  
+主に **C言語（WSL上のUbuntu）** や **Python** を使って、
+ロボット制御や組み込み開発に取り組んでいます。
 
----
+-  所有ロボット：Academic Scholar Robot / myCobot  
+-  組み込み制御：Arduinoで学ぶ授業の講師  
 
-## 🛠 **Skills**
-- **Programming**: Java, C, HTML/CSS  
-- **Tools**: VS Code, Eclipse, Git  
-
-
-
-
----
 
 <!-- スキルのアイコンを表示 -->
+<h2>skill</h2>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="width:40px;height:auto;">
-  
   <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=python" alt="Python" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=linux" alt="Linux" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=anaconda" alt="Anaconda" style="width:40px;height:auto;margin-right:10px;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=wsl" alt="WSL" style="width:40px;height:auto;margin-right:10px;">
   <img src="https://simpleskill.icons.workers.dev/svg?i=html5" alt="HTML5" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" alt="CSS3" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=git" alt="Git" style="width:40px;height:auto;">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" alt="CSS3" style="width:40px;height:auto;">
 </p>
+
 
 ---
 
@@ -45,12 +39,11 @@
 
 
 ```bash
-年齢：20age
-住み：静岡県
-性格：なんか変わり者
-将来の希望：javaプログラマー
-学年：1年
-好きなもの：インドカレー、櫻坂46（アーティスト）
+学年：２年
+分野：ロボット、制御系
+好きな食べ物：インドカレー
+趣味：ロボットや制御系の書籍を見る・ホームセンターへ材料買いに行く
+MBTI：ISTP（巨匠）
 ```
 
 
@@ -60,18 +53,7 @@
 
 
 <br>
-<h1>Skill</h1>
-<h2>学校で学ぶ言語</h2>
-<p align="left">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=c" alt="C" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=html5" alt="HTML5" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=css3" alt="CSS3" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=javascript" alt="JavaScript" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=visualbasic" alt="Visual Basic" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=python" alt="Python" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="PHP" style="width:40px;height:auto;margin-right:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="width:40px;height:auto;">
-</p>
+
 
 
 
